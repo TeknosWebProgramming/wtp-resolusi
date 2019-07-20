@@ -1,6 +1,8 @@
 RENCANA KONTEN WTP
 
 - Javascript
+  * ES6
+  * Framework Javascript
 - PHP Framework
 - Interview
 - vlogs
